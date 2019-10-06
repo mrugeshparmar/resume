@@ -12,7 +12,7 @@ export default class about extends Component {
             <div className="nine columns main-col">
               <h2>About Me</h2>
               <p>
-                I'm fulltime coder and part time tarveller. My expertise includes Frontend skills - HTML/CSS, javascript(React.js) and backend skills Node.js, Express.js,  NoSQL and SQL. I myself prefer mac for my work but I feel same for windows and php, we may need at somepoint in life.  
+                I'm fulltime coder and part time traveller. My expertise includes Frontend skills - HTML/CSS, javascript(React.js) and backend skills Node.js, Express.js,  NoSQL and SQL.  
               </p>
               <div className="row">
                 <div className="columns contact-details">
