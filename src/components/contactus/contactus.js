@@ -13,7 +13,7 @@ export default class contactus extends Component {
             </div>
             <div className="ten columns">
               <p className="lead">
-                Feel free to reach out me me@mrugeshparmar.com or +1(720)397-3402.
+                Feel free to reach me out at me@mrugeshparmar.com or +1(720)397-3402.
               </p>
             </div>
           </div>
